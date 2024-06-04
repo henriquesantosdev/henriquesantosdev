@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Henrique Santos 👋
 
-<!--
-**henriquesantosdev/henriquesantosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+- 💻 Desenvolvedor de software com foco em [tecnologias/práticas].
+- 🎓 Graduado em [Sua Formação] pela [Sua Universidade].
+- 🌐 Você pode ver meus projetos em [(https://henriquesantosdev.github.io/portfolio/)].
 
-Here are some ideas to get you started:
+### Projetos em destaque
+- [Projeto 1]((https://github.com/henriquesantosdev/inventory-manager)): Descrição breve do projeto.
+- [Projeto 2](link-para-o-projeto): Descrição breve do projeto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato
+- Email: [Seu Email](contato.henriquesantosdev@gmail.com)
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seunome)
